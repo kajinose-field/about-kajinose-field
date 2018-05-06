@@ -2,7 +2,7 @@
 The description of kaji-nose-field
 ## これは何
 いちのせ(@ItinoseVM)とかじ氏(@Anorlondo448)のOSSを一緒に作ってコミットするorganizationです。
-## れぞれの役
+## それぞれの役
 - いちのせ -- 作る
 - かじ氏 -- レビュー中心でお願いします。
 ## 何を作るか
